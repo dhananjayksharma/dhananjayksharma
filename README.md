@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhananjayksharma
 - 👀 I’m interested in Golang Development
-- 🌱 I’m currently learning Docker, Kubernetes, Jenkins, and CI/CD pipeline
+- 🌱 I’m currently learning Blockchain, Docker, Kubernetes, Jenkins, and CI/CD pipeline
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dhananjayksharma@gmail.com
 
